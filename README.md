@@ -1,4 +1,4 @@
-Purpose: This script investigates whether or not synthetically constructed features will help make
+﻿Purpose: This script investigates whether or not synthetically constructed features will help make
 the linear model (LogisticRegression) predict better.
 Author: Eric Chio "log0" <im.ckieric@gmail.com>
 
